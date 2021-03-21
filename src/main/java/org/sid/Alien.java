@@ -14,6 +14,8 @@ public class Alien {
 		lap.pricipalinfo();
 		teche.teach();
 		System.out.println("in show ");
+		System.out.println("je t ai ecris from github");
+		
 	}
 
 
